@@ -43,15 +43,14 @@ RoadSafe is an innovative developer tool designed to enhance road safety through
 
 ## Contributors
 
-Meet the team behind PathPlanner:
+Meet the team behind RoadSafe:
 
 - **Shukanth Jojodae**
 - **Kanishk Kovuru**
 - **Siddarth Tummala**
 - **Nithin Seelan**
 
-We collaborated on ideation, design, and development to create a seamless academic planning experience for students.
-
+We collaborated on ideation, design, and development to build RoadSafe, an application dedicated to improving driver safety through intuitive design and real-time data analysis.
 ---
 
 **Why RoadSafe?**
