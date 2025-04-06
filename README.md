@@ -42,6 +42,18 @@ RoadSafe is an innovative developer tool designed to enhance road safety through
 
 ---
 
+**Why RoadSafe?**
+
+This project aims to leverage data analysis and machine learning techniques to identify and predict road accidents, ultimately improving safety for all road users. The core features include:
+
+- 🚦 **Real-Time Alerts:** Sends immediate notifications to authorities upon detecting an accident, enhancing response times.
+- 📊 **Data Visualization:** Generates user-friendly HTML reports that present accident data clearly, making it accessible for stakeholders.
+- 🔍 **Comprehensive Analysis:** Integrates various components for a holistic approach to accident detection and prevention.
+- 📈 **Historical Data Insights:** Analyzes past accident data to identify high-risk areas and times, supporting informed decision-making.
+- 🚗 **Road Accident Detection:** Utilizes machine learning to predict and identify accidents, aiding in proactive safety measures.
+
+---
+
 ## Contributors
 
 Meet the team behind RoadSafe:
@@ -52,18 +64,6 @@ Meet the team behind RoadSafe:
 - **Nithin Seelan**
 
 We collaborated on ideation, design, and development to build RoadSafe, an application dedicated to improving driver safety through intuitive design and real-time data analysis.
-
----
-
-**Why RoadSafe?**
-
-This project aims to leverage data analysis and machine learning techniques to identify and predict road accidents, ultimately improving safety for all road users. The core features include:
-
-- 🚦 **Real-Time Alerts:** Sends immediate notifications to authorities upon detecting an accident, enhancing response times.
-- 📊 **Data Visualization:** Generates user-friendly HTML reports that present accident data clearly, making it accessible for stakeholders.
-- 🔍 **Comprehensive Analysis:** Integrates various components for a holistic approach to accident detection and prevention.
-- 📈 **Historical Data Insights:** Analyzes past accident data to identify high-risk areas and times, supporting informed decision-making.
-- 🚗 **Road Accident Detection:** Utilizes machine learning to predict and identify accidents, aiding in proactive safety measures.
 
 ---
 
