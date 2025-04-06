@@ -47,7 +47,7 @@ Meet the team behind PathPlanner:
 
 - **Shukanth Jojodae**
 - **Kanishk Kovuru**
-- **Sharva Deodhar**
+- **Siddarth Tummala**
 - **Nithin Seelan**
 
 We collaborated on ideation, design, and development to create a seamless academic planning experience for students.
