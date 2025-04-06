@@ -51,6 +51,7 @@ Meet the team behind RoadSafe:
 - **Nithin Seelan**
 
 We collaborated on ideation, design, and development to build RoadSafe, an application dedicated to improving driver safety through intuitive design and real-time data analysis.
+
 ---
 
 **Why RoadSafe?**
