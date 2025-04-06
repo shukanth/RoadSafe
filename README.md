@@ -25,6 +25,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Contributors](#contributors)
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
